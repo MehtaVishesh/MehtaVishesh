@@ -1,4 +1,5 @@
-### Hi there, I'm Vishesh 
+### Hi there Vishesh,
+- I am passionate about evangelizing technology and making real world applications. A quick learner, out of box thinker and penchant for software development. Being adept at interacting with clients and gathering requirements, I want to work in and lead world class teams to build world class products.
 
 ## I'm a student 
 
