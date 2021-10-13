@@ -27,12 +27,10 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vishesh Mehta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MehtaVishesh&show_icons=true&hide_border=true" />
 
-</details>
 
 [linkedin]: https://www.linkedin.com/in/vishesh-mehta-516427217/
 
