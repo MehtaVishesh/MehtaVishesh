@@ -3,9 +3,9 @@
 
 ## I'm a student and working for the technical software team of ISA MPSTME
 
-- 🌱 I’m currently learning full stack development
+- 🌱 Currently learning full stack development
 - 👯 I’m always looking for project idea and collaboration
-- 🥅 2020 Goals: Coding my startup
+- 🥅 2021 Goals: Coding my startup
 - ⚡ Fun fact: I love to draw and play the piano
 
 <br />
