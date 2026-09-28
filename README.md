@@ -25,14 +25,3 @@ Software and AI Engineer based in Melbourne, VIC, holding a Master of Artificial
 - Backend & Cloud: FastAPI, Flask, PostgreSQL/PostGIS, Docker, AWS (EC2, S3, RDS)
 
 <br />
-
----
-
-### GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehtaVishesh&show_icons=true&hide_border=true&theme=radical" alt="Vishesh Mehta's GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehtaVishesh&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-</p>
