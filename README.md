@@ -1,24 +1,23 @@
 Hey, I'm Vishesh 👋
 
-I'm a Software and AI Engineer in Melbourne, Australia. I enjoy building AI applications that solve practical problems.
+I'm a Software and AI Engineer based in Melbourne, Australia, with a background in Artificial Intelligence from Monash University. I enjoy building practical AI applications and exploring how LLMs can make software more useful and reliable.
 
-I'm currently exploring agentic AI, RAG systems, and LLM applications with LangChain and LangGraph.
+Currently exploring agentic AI, RAG systems, and LLM-powered applications using Python, LangChain, and LangGraph.
 
-🔭 Building AI agents, document assistants, and natural-language tools
-🌱 Exploring LLM workflows, retrieval, and reliable AI systems
-🗺️ Worked on Gather Pantry at Monash University, where I built spatial data pipelines for Victorian food data. The project processed 12,000+ records and used spatial indexing to improve query performance. The code is not public.
-💬 Interested in AI engineering, data engineering, and backend development
-📫 LinkedIn · visheshm4mac@gmail.com
+What I'm Building
+Multi-PDF RAG Chatbot: Ask questions across documents with context-grounded answers.
+Stateful Search Agent: An AI assistant that combines web search with conversational memory.
+Natural-Language SQL Assistant: Interact with databases using natural language and safety guardrails.
+Gather Pantry: Built a spatial ETL pipeline processing 12,000+ Victorian food records as part of a Monash University project. Source code is not public.
 Tools I Use
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,pytorch,tensorflow,postgres,mysql,mongodb,docker,kubernetes,aws,git,github,linux" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,pytorch,tensorflow,postgres,mysql,mongodb,docker,kubernetes,aws,git,github,linux" alt="Technologies and tools" /> </p>
 
-Currently working with: Python · LangChain · LangGraph · FAISS · SQL · FastAPI · Docker
+Currently working with: Python, LangChain, LangGraph, FAISS, SQL, and Streamlit.
 
-Things I've Built
-Multi-PDF RAG Chatbot — Ask questions about documents and get answers based on their content.
-Stateful Search Agent — An AI assistant that searches the web and remembers conversation context.
-Natural-Language SQL Assistant — Manage database tasks with natural-language instructions and query safety rules.
-A Bit More About Me
+Let's Connect
 
-I have a Master of Artificial Intelligence from Monash University and a B.Tech in Artificial Intelligence. Outside software development, I work in retail operations and use sales data to make better inventory decisions.
+I'm interested in AI engineering, backend development, and data engineering, and always happy to connect with developers, share ideas, and learn from others building in this space.
+
+LinkedIn: Vishesh Mehta
+Email: visheshm4mac@gmail.com
