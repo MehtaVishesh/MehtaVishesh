@@ -1,35 +1,26 @@
-### Hey, I'm Vishesh
+Hey, I'm Vishesh 👋
 
-Software and AI Engineer based in Melbourne, VIC, holding a Master of Artificial Intelligence from Monash University (78.75 WAM) and a B.Tech in AI. I build production GenAI systems, high-throughput spatial ETL pipelines, and full-stack interfaces.
+Software and AI Engineer based in Melbourne, Australia 🇦🇺, with a Master of Artificial Intelligence from Monash University (78.75 WAM). I build GenAI applications, agentic workflows, and data-intensive systems.
 
-- Building: Production RAG workflows, agentic architectures, and geospatial web applications
-- Core Focus: Python, SQL, C++, JavaScript, FastAPI, React, PostgreSQL/PostGIS, Docker, AWS
-- Latest project: Gather Pantry at Monash (Mar–Jun 2026). A Python ETL pipeline over 12,000+ Victorian food records from OSM and ABS, cut from O(n²) to O(n log n) with an STRtree index. Added a hybrid Scikit-Learn classifier (98% accuracy across 3 categories) and a React/Leaflet map that filters by radius in under 10ms.
-- Working now: Retail Sales Assistant & Data Analyst at Pop Phones. I turn POS records into restock decisions and trained 5 junior staff from onboarding to sales proficiency.
-- Background: AI Engineering Intern at Elixir Equities (GPT-4 RAG chain, multi-turn WhatsApp session memory in LangChain) and CV Intern at LTIMindtree (YOLOv8, ResNet50 and MobileNet transfer learning for factory safety-gear tracking)
-- Reach out: [LinkedIn](https://www.linkedin.com/in/vishesh-mehta-516427217/) | visheshm4mac@gmail.com
+🔭 Building: RAG pipelines, AI agents, and LLM-powered applications
+🛠️ Core Stack: Python, SQL, LangChain, LangGraph, FastAPI, PostgreSQL, Docker, AWS
+🌏 Featured Academic Project: Gather Pantry — processed 12,000+ Victorian food records using spatial ETL, optimized queries from O(n²) to O(n log n) with STRtree indexing, and achieved 98% classification accuracy across three categories. Also contributed to a React/Leaflet mapping interface with radius-based filtering under 10 ms. (Code unavailable due to project confidentiality.)
+💼 Experience: AI Engineering Intern at Elixir Equities; currently working in retail operations and data analysis at Pop Phones.
+📫 Reach me: LinkedIn · visheshm4mac@gmail.com
+Languages & Technologies
 
-<br />
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,pytorch,tensorflow,postgres,mysql,mongodb,docker,kubernetes,aws,git,github,linux" /> </p>
 
-### Languages and Technologies
+Engineering Stack
+GenAI: GPT-4, LangChain, LangGraph, RAG, FAISS, Pydantic, prompt engineering
+ML & Data: Scikit-Learn, PyTorch, TensorFlow, Pandas, GeoPandas, Shapely, Apache Spark, Kafka
+Backend & Cloud: FastAPI, REST APIs, PostgreSQL, MySQL, MongoDB, SQLite, AWS, Docker, Kubernetes
+Featured Projects
+Agentic Multi-PDF RAG Chatbot — Multi-document retrieval, FAISS vector search, and evidence-grounded LLM responses.
+Stateful Search Agent — LangGraph agent with web search, persistent memory, and multi-turn conversations.
+Natural-Language SQL Assistant — LLM-powered database operations with SQL safety guardrails.
+Education 🎓
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,flask,pytorch,tensorflow,postgres,mysql,mongodb,docker,kubernetes,aws,git,github,vscode,linux" />
-</p>
+Master of Artificial Intelligence — Monash University (2024–2026) · WAM: 78.75
 
-<br />
-
-### Engineering Stack
-
-- GenAI & NLP: GPT-4, LangChain, LangGraph, RAG, Hugging Face Transformers, few-shot prompting with guardrails, fine-tuning, vector search
-- Spatial & Big Data: GeoPandas, Shapely, STRtree indexing, Apache Spark, PySpark, Apache Kafka
-- ML & Computer Vision: PyTorch, TensorFlow, Scikit-Learn, Spark MLlib, YOLOv8, CNNs
-- Backend & Cloud: FastAPI, Flask, REST APIs, PostgreSQL/PostGIS, MySQL, MongoDB, Docker, Kubernetes, AWS (EC2, S3, RDS, Amplify), CI/CD
-
-<br />
-
-### Study
-
-Master of Artificial Intelligence, Monash University (2024–2026). Coursework included Machine Learning, Deep Learning, Data Processing for Big Data, Cloud Computing and Security, Planning and Automated Reasoning, and Multi Agent Systems and Collective Behaviour.
-
-<br />
+B.Tech in Artificial Intelligence — SVKM's NMIMS MPSTME (2020–2024)
